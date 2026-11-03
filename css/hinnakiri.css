@@ -1,5 +1,11 @@
-.body {
-    background-color:antiquewhite;
+body {
+    background-color: blanchedalmond;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
 }
 
 .row {
